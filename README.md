@@ -1,6 +1,6 @@
-# gridsense
+# GridSense
 
-The **gridsense** is a powerful tool designed for Formula 1 enthusiasts, analysts, and teams. It provides real-time predictions and insights into race outcomes, weather conditions, and session performances (Qualifying and Practice). The app also displays historical and live data to help users make informed decisions.
+The **GridSense** is a powerful tool designed for Formula 1 enthusiasts, analysts, and teams. It provides real-time predictions and insights into race outcomes, weather conditions, and session performances (Qualifying and Practice). The app also displays historical and live data to help users make informed decisions.
 
 ## Features
 
@@ -45,7 +45,7 @@ The app uses a combination of **machine learning models**, **historical F1 data*
 
 ## Installation
 
-To run the F1 Prediction Web App locally, follow these steps:
+To run the GridSense locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
@@ -60,4 +60,4 @@ GridSense is licensed under the **MIT License**. See the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please reach out me to **boholstdianne1@gmail**
+For any questions or feedback, please reach out to me **boholstdianne1@gmail**
