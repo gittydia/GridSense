@@ -43,6 +43,15 @@ The app uses a combination of **machine learning models**, **historical F1 data*
    - Interactive dashboards built with libraries like Paparse, Chartjs.
    - Tables and charts for displaying session results and predictions.
 
+## Tech Stack
+
+- **Frontend**: React or Vite (JavaScript)
+- **Backend**: Go (Golang)
+- **Machine Learning**: Python (Scikit-learn, TensorFlow/PyTorch)
+- **Database**: MongoDB
+- **APIs**: RESTful APIs for communication between frontend, backend, and ML services.
+
+---
 ## Installation
 
 To run the GridSense locally, follow these steps:
