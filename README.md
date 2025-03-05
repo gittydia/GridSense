@@ -61,10 +61,6 @@ To run the GridSense locally, follow these steps:
    git clone https://github.com/gittydia/GridSense.git
    cd GridSense
 
-## License
-
-GridSense is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 ## Contact
