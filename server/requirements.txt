@@ -1,0 +1,15 @@
+requests
+jsonify
+fastapi
+uvicorn
+numpy
+sentence-transformers
+python-dotenv
+python-multipart
+logging
+pydantic
+typing  
+nltk
+fastf1
+openai
+
