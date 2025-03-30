@@ -1,11 +1,11 @@
 # GridSense
 
-The **GridSense** is a powerful tool designed for Formula 1 enthusiasts, analysts, and teams. It provides real-time predictions and insights into race outcomes, weather conditions, and session performances (Qualifying and Practice). The app also displays historical and live data to help users make informed decisions.
+The **GridSense** is a powerful tool designed for Formula 1 enthusiasts, analysts, and teams. It provides real-time predictions and insights into race outcomes, weather conditions, and session performances (Qualifying and Practice). The app also displays historical and live data to help users make informed decisions. All the historical data that will/is used are around 2023-2024.
 
 ## Features
 
 ### 1. **Race Winner Prediction**
-   - Predicts the likely winner of the race based on historical data, driver performance, and track conditions.
+   - Predicts the likely winner of the race based on historical data, driver performance, and track conditions. 
    - **Output**: Percentage probability of each driver winning the race.
 
 ### 2. **Qualifying and Practice Predictions**
@@ -19,11 +19,6 @@ The **GridSense** is a powerful tool designed for Formula 1 enthusiasts, analyst
 ### 4. **Data Display**
    - Displays historical race data, live telemetry, and session results in an easy-to-read format.
    - **Output**: Interactive charts, tables, and graphs for better visualization.
-
-### 4. **Championship Winner Prediction**
-   - Predicts who will likely to win the championship in both driver and constructor based on the 
-   historical data, driver performance, team performance, and car performance. 
-   - **Output**: Percentage probability of each driver and constructor winning the race.
 
 ## How It Works
 
